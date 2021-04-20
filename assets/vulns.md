@@ -33,6 +33,7 @@ As we start to build this repository, we'll be adding more vulnerability types a
 - [Insecure Direct Object Reference Vulnerability](https://www.youtube.com/watch?v=rloqMGcPMkI) - by PwnFunction
 - [Finding Your First Bug: Manual IDOR Hunting](https://www.youtube.com/watch?v=gINAtzdccts) - by Insider PhD
 - [Burp Suite tutorial: IDOR vulnerability automation using Autorize and AutoRepeater (bug bounty)](https://www.youtube.com/watch?v=3K1-a7dnA60) - by STÖK & Fisher
+- [IDOR: Attack vectors, exploitation, bypasses and chains](https://www.notion.so/IDOR-Attack-vectors-exploitation-bypasses-and-chains-0b73eb18e9b640ce8c337af83f397a6b)
 
 ## Open Redirect
 - [Open Redirect Vulnerability](https://www.youtube.com/watch?v=4Jk_I-cw4WE) - by PwnFunction
